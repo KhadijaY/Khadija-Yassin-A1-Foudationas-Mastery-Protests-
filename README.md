@@ -1,4 +1,4 @@
-# Khadija-Yassin-A1-Foudationas-Mastery-Protests-
+# Khadija-Yassin-A1-Foundations-Mastery-Protests-
 The past few years in the United States, there has been a surge in protests in support of Black Lives Matter, gender equity, and other social issues. In this assignment, you'll work with data from CountLove -- the same data often cited by the New York Times -- to learn more about demonstrations over the past few years.
 
 By completing the assignment, you will demonstrate the following skills:
