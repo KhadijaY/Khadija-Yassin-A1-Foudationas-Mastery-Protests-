@@ -1,13 +1,8 @@
 # Khadija-Yassin-A1-Foundations-Mastery-Protests-
 [In this article, they are emphasizing how the Black Lives Matter has become one of the largest protests in the United States. It also touches on the death of George Floyd fulled the surge in movements and protests not only in the United States, but worldwide.](https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html)
 [This article talks about how the increase in hate crimes, like lynching and riots towards black/african Americans which has resulted in people going out and protesting . They are protesting so that the government can create policies that protect these demographics.  ](https://www.brookings.edu/blog/how-we-rise/2021/06/09/pandemics-and-protests-america-has-experienced-racism-like-this-before/)
-This article talks about the years of protests and the influence it has had on policies in the past and today. It also talks about ways that people can get involved in protests. 
-https://www.adl.org/education/resources/tools-and-strategies/the-purpose-and-power-of-protest
-
-
-
-
-
+[This article talks about the years of protests and the influence it has had on policies in the past and today. It also talks about ways that people can get involved in protests. ]
+(https://www.adl.org/education/resources/tools-and-strategies/the-purpose-and-power-of-protest)
 
 Reflection: What does the difference between the mean and the median
 # tell you about the *distribution* of the data? (if you're unfamiliar with
@@ -15,11 +10,8 @@ Reflection: What does the difference between the mean and the median
 
 The difference between the mean and median tells me that the distribution of that data is not a normal distribution but a skewed one. This dataset in particular is skewed towards the right. 
 
-
-
 # Reflection: Does the number of protests in Washington surprise you?
 # Why or why not?
-
 
 The number of protests in Washington surprised me because it showed that a lot of the attendees who are at protests in this data set are from Washington, since the proportion equaled one and the number of attendees from Washington being 38,097. 
 
@@ -28,9 +20,10 @@ The number of protests in Washington surprised me because it showed that a lot o
 # to actually change your analysis)?
 
 I think one thing that I noticed was that the state_table didn’t provide enough information.
- 
+
 Reflection: Does the change in the number of protests from 2019 to 2020
 # surprise you? Why or why not?
+
 Yeah, I not am surprised at the change in the number of protests from 2019 to 2020, especially with all of the movements coming up as a result to laws on women rights and the many incidences of violence on those who are African American and POC.
 
 # Reflection: do a bit of research. Find at least *two specific policies* that
