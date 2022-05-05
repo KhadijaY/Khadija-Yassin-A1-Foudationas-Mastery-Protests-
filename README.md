@@ -1,39 +1,53 @@
 # Khadija-Yassin-A1-Foundations-Mastery-Protests-
-The past few years in the United States, there has been a surge in protests in support of Black Lives Matter, gender equity, and other social issues. In this assignment, you'll work with data from CountLove -- the same data often cited by the New York Times -- to learn more about demonstrations over the past few years.
+[In this article, they are emphasizing how the Black Lives Matter has become one of the largest protests in the United States. It also touches on the death of George Floyd fulled the surge in movements and protests not only in the United States, but worldwide.](https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html)
+[This article talks about how the increase in hate crimes, like lynching and riots towards black/african Americans which has resulted in people going out and protesting . They are protesting so that the government can create policies that protect these demographics.  ](https://www.brookings.edu/blog/how-we-rise/2021/06/09/pandemics-and-protests-america-has-experienced-racism-like-this-before/)
+This article talks about the years of protests and the influence it has had on policies in the past and today. It also talks about ways that people can get involved in protests. 
+https://www.adl.org/education/resources/tools-and-strategies/the-purpose-and-power-of-protest
 
-By completing the assignment, you will demonstrate the following skills:
 
-Use of version control for managing your code
-Declaring document rendering using markdown syntax
-Foundational programming skills in R.
-Background Research
-Before diving into this (or any) dataset, it's important to have domain familiarity (i.e., to know something about the topic). As preparation, I'm asking that you read three articles about protests in the U.S., and provide a brief 1 - 2 sentence summary or takeaway from each one.
 
-In the section below, create an unordered list of the three articles you found. Make sure to provide an appropriate markdown link (not just the URL) to the article in addition to your 1 - 2 sentence summary.
 
-Accompanying Image
-In this section, please display one image to accompany your text, and describe why you included it (~2 - 3 sentences). This will require that you download an image into your project folder. In your description, use bold and italics (at least once, for practice) to emphasize some of your points.
 
-Analysis
-At this point, you should open up your analysis.R script to begin working with the data. The script will guide you through an initial analysis of the data. Throughout the script, there are prompts labeled Reflection. Please write 1 - 2 sentences for each of these reflections below:
 
-What does the difference between the mean and the median tell you about the distribution of the data?
-Does the number of protests in Washington surprise you? Why or why not?
-Looking at the state_table variable, what data quality issues do you notice, and how would you use that to change your analysis (no need to actually change your analysis)?
-Does the change in the number of protests from 2019 to 2020 surprise you? Why or why not?
-Do a bit of research. Find at least two specific policies that have been changed as a result of protests in 2020. These may be at the city, state, or University level. Please provide a basic summary, as well as a link to each article.
-Take a look (View()) your high_level_table variable. What picture does this paint of the U.S.?
-Critical Reflection
-Now that you have had time to work with the data and visualize it, I want you to practice thinking critically about the dataset we provided. An important part of data analysis is reflecting on the assumptions, limitations, and gaps in your datasets. Remember that all datasets have to make assumptions and not all assumptions are bad or unreasonable! Practicing these skill will help you in your career to be self critical and ethically alert.
+Reflection: What does the difference between the mean and the median
+# tell you about the *distribution* of the data? (if you're unfamiliar with
+# working with distribution ons, feel free to ask your TA for clarification)
 
-For this section, please write 2-3 sentences for each of the reflections below:
+The difference between the mean and median tells me that the distribution of that data is not a normal distribution but a skewed one. This dataset in particular is skewed towards the right. 
 
-How was the dataset collected and who collected the data?
-What assumptions does the dataset make? List atleast two assumptions you identified. For inspiration, check out this blog post that describes one method for identifying data assumptions.
-What data is missing from the dataset? Think about if there are any data points you would have liked to have seen in the dataset.
-Final Thoughts
-When you are finished, with your analysis, please answer the following questions in 1-2 sentences each.
 
-What about the analysis surprised you?
-What parts of this analysis did you find challenging?
-What types of analysis do you wish you were able to do with the dataset, but currently don't have the technical skills to do?
+
+# Reflection: Does the number of protests in Washington surprise you?
+# Why or why not?
+
+
+The number of protests in Washington surprised me because it showed that a lot of the attendees who are at protests in this data set are from Washington, since the proportion equaled one and the number of attendees from Washington being 38,097. 
+
+# Reflection: Looking at the `state_table` variable, what data quality issues
+# do you notice, and how would you use that to change your analysis (no need
+# to actually change your analysis)?
+
+I think one thing that I noticed was that the state_table didn’t provide enough information.
+ 
+Reflection: Does the change in the number of protests from 2019 to 2020
+# surprise you? Why or why not?
+Yeah, I not am surprised at the change in the number of protests from 2019 to 2020, especially with all of the movements coming up as a result to laws on women rights and the many incidences of violence on those who are African American and POC.
+
+# Reflection: do a bit of research. Find at least *two specific policies* that
+# have been changed as a result of protests in 2020. These may be at the
+# city, state, or University level. Please provide a basic summary, as well as a
+# link to each article.
+
+One policy was the defunding of police ( in Minneapolis) which would shift the funding that police departments get towards programs/organizations that will provide assistance to marginalized communities. 
+
+https://americanpoliceofficersalliance.com/cities-that-defunded-police/
+
+Another policy is advancing gender equity which is seen in the executive order in march 2021 as a result of the women rights. 
+https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/
+
+
+# Reflection: Take a look (`View()`) your `high_level_table` variable. What
+# picture does this paint of the U.S.?
+
+It is showing that a lot of the protests that are high level purpose were civil rights related, following environment and immigration. This makes sense, especially because with the Black Lives Matter protest and immigrations laws that are impacting those who are undocumented. 
+
