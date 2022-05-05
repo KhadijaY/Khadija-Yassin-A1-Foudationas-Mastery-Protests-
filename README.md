@@ -8,7 +8,6 @@
 Reflection: What does the difference between the mean and the median
 # tell you about the *distribution* of the data? (if you're unfamiliar with
 # working with distribution ons, feel free to ask your TA for clarification)
-
 The difference between the mean and median tells me that the distribution of that data is not a normal distribution but a skewed one. This dataset in particular is skewed towards the right. 
 
 # Reflection: Does the number of protests in Washington surprise you?
