@@ -1,8 +1,9 @@
 # Khadija-Yassin-A1-Foundations-Mastery-Protests-
 [In this article, they are emphasizing how the Black Lives Matter has become one of the largest protests in the United States. It also touches on the death of George Floyd fulled the surge in movements and protests not only in the United States, but worldwide.](https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html)
+
 [This article talks about how the increase in hate crimes, like lynching and riots towards black/african Americans which has resulted in people going out and protesting . They are protesting so that the government can create policies that protect these demographics.  ](https://www.brookings.edu/blog/how-we-rise/2021/06/09/pandemics-and-protests-america-has-experienced-racism-like-this-before/)
-[This article talks about the years of protests and the influence it has had on policies in the past and today. It also talks about ways that people can get involved in protests. ]
-(https://www.adl.org/education/resources/tools-and-strategies/the-purpose-and-power-of-protest)
+
+[This article talks about the years of protests and the influence it has had on policies in the past and today. It also talks about ways that people can get involved in protests.](https://www.adl.org/education/resources/tools-and-strategies/the-purpose-and-power-of-protest)
 
 Reflection: What does the difference between the mean and the median
 # tell you about the *distribution* of the data? (if you're unfamiliar with
